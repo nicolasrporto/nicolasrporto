@@ -1,6 +1,6 @@
-# Olá, eu sou o Nícolas Porto 👋
+# Olá, me chamo Nicolas Ribeiro Porto 👋
 
-🎓 Estudante e entusiasta da área de **Ciência de Dados, Estatística e Computação Científica**, com interesse em modelagem preditiva, análise exploratória e simulação de fenômenos físicos e astronômicos.
+🎓 Estudante e entusiasta da área de **Ciência de Dados, Estatística e Computação Científica**, com interesse em modelagem preditiva, análise exploratória e simulações (nos exemplos, aplicadas à Física, Astronomia e um exemplo com a Bolsa de Valores).
 
 ---
 
